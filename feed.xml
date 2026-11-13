@@ -12,6 +12,14 @@
     <itunes:category text="Technology"/>
     <link>https://bengals2bowl.github.io/ib-448bec2026/</link>
     <item>
+      <title>The Industry Brief: Friday, November 13, 2026</title>
+      <description>Microsoft 365 outage, Nvidia CEO Huang resigns, chip export-control push, ScreenConnect SCKit update, CISA Barracuda deadline, AI lawsuit and Hatz AI funding.</description>
+      <pubDate>Fri, 13 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">industry-brief-2026-11-13</guid>
+      <enclosure url="https://bengals2bowl.github.io/ib-448bec2026/audio/2026-11-13.mp3" length="1885104" type="audio/mpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Industry Brief: Thursday, November 12, 2026</title>
       <description>ScreenConnect attacks on MSPs, MSP Process token theft, new CISA exploited flaws, Nvidia CEO crisis, export rule extension, Google Cloud and iCloud outages.</description>
       <pubDate>Thu, 12 Nov 2026 11:00:00 +0000</pubDate>
