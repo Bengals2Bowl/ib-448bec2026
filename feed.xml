@@ -12,6 +12,14 @@
     <itunes:category text="Technology"/>
     <link>https://bengals2bowl.github.io/ib-448bec2026/</link>
     <item>
+      <title>The Industry Brief: Monday, November 16, 2026</title>
+      <description>Microsoft 365 outage, Nvidia CEO exit and chip export bills, ScreenConnect SCKit update, CISA KEV additions, AWS US-EAST-1 outage, Exchange Admin API deadline, Anthropic IPO.</description>
+      <pubDate>Mon, 16 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">industry-brief-2026-11-16</guid>
+      <enclosure url="https://bengals2bowl.github.io/ib-448bec2026/audio/2026-11-16.mp3" length="1902384" type="audio/mpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Industry Brief: Sunday, November 15, 2026</title>
       <description>ScreenConnect attacks hit a second wave, MSP Process breach exposes Entra secrets, a Windows activation fix, Nvidia export-control fight, and Upwork's 37 percent cut.</description>
       <pubDate>Sun, 15 Nov 2026 11:00:00 +0000</pubDate>
