@@ -12,6 +12,14 @@
     <itunes:category text="Technology"/>
     <link>https://bengals2bowl.github.io/ib-448bec2026/</link>
     <item>
+      <title>The Industry Brief: Wednesday, November 18, 2026</title>
+      <description>Nvidia CEO exit and earnings, new chip export rule, Apple outage, California suit against OpenAI, Anthropic IPO, ScreenConnect update, Puppet KEV.</description>
+      <pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">industry-brief-2026-11-18</guid>
+      <enclosure url="https://bengals2bowl.github.io/ib-448bec2026/audio/2026-11-18.mp3" length="1635264" type="audio/mpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Industry Brief: Tuesday, November 17, 2026</title>
       <description>Exchange Online outage report, new ScreenConnect attacks, Exchange Admin API deadline, Microsoft currency pricing, new AI chip export rule, Nvidia earnings, AWS incident.</description>
       <pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate>
