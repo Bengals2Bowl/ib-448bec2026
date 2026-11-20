@@ -12,6 +12,14 @@
     <itunes:category text="Technology"/>
     <link>https://bengals2bowl.github.io/ib-448bec2026/</link>
     <item>
+      <title>The Industry Brief: Friday, November 20, 2026</title>
+      <description>A VMware vCenter zero-day, new CISA exploited flaws, the Exchange Admin API deadline, AWS and Azure interconnect, an MSP acquisition, and Nvidia chip news.</description>
+      <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">industry-brief-2026-11-20</guid>
+      <enclosure url="https://bengals2bowl.github.io/ib-448bec2026/audio/2026-11-20.mp3" length="2107584" type="audio/mpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Industry Brief: Thursday, November 19, 2026</title>
       <description>Industry Brief: ScreenConnect attacks on MSPs, N-able and Kaseya updates, Microsoft 365 outage cause, Citrix on Azure, Nvidia and chip export rules, Anthropic IPO.</description>
       <pubDate>Thu, 19 Nov 2026 11:00:00 +0000</pubDate>
