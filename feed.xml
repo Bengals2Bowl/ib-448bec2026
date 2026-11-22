@@ -12,6 +12,14 @@
     <itunes:category text="Technology"/>
     <link>https://bengals2bowl.github.io/ib-448bec2026/</link>
     <item>
+      <title>The Industry Brief: Sunday, November 22, 2026</title>
+      <description>Nvidia subpoena and CEO change, a chip export rule correction, ScreenConnect campaign update, AWS and Azure Interconnect, and Microsoft 365 admin deadlines.</description>
+      <pubDate>Sun, 22 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">industry-brief-2026-11-22</guid>
+      <enclosure url="https://bengals2bowl.github.io/ib-448bec2026/audio/2026-11-22.mp3" length="1443888" type="audio/mpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Industry Brief: Saturday, November 21, 2026</title>
       <description>Tech stock selloff and Anthropic IPO, CISA adds vCenter and Cisco Expressway flaws, N-central hotfix, Kaseya MCP servers, new chip export rules, Ignite contact center and Citrix news.</description>
       <pubDate>Sat, 21 Nov 2026 11:00:00 +0000</pubDate>
