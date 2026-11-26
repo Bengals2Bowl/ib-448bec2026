@@ -12,6 +12,14 @@
     <itunes:category text="Technology"/>
     <link>https://bengals2bowl.github.io/ib-448bec2026/</link>
     <item>
+      <title>The Industry Brief: Thursday, November 26, 2026</title>
+      <description>Exploited Mitel flaws, VMware patches, 1Password breach, a second Drupal fix, an Exchange deadline, HP memory costs, proposed tariffs and a Chicago-area data center.</description>
+      <pubDate>Thu, 26 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">industry-brief-2026-11-26</guid>
+      <enclosure url="https://bengals2bowl.github.io/ib-448bec2026/audio/2026-11-26.mp3" length="1771920" type="audio/mpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Industry Brief: Wednesday, November 25, 2026</title>
       <description>Exploited Drupal flaw, Check Point intrusions, Entra data exposure, Microsoft Code Red, Dell, HPE, Nutanix and Zoom results, a mobility deal, tariffs and an Exchange deadline.</description>
       <pubDate>Wed, 25 Nov 2026 11:00:00 +0000</pubDate>
