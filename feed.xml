@@ -12,6 +12,14 @@
     <itunes:category text="Technology"/>
     <link>https://bengals2bowl.github.io/ib-448bec2026/</link>
     <item>
+      <title>The Industry Brief: Saturday, November 28, 2026</title>
+      <description>A Windows NTLM sign-in issue, exploited GeoServer flaws, a Linux file server bug, Defender for IoT changes, AI server price hikes, Nvidia partners and an Air Force cloud breach.</description>
+      <pubDate>Sat, 28 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">industry-brief-2026-11-28</guid>
+      <enclosure url="https://bengals2bowl.github.io/ib-448bec2026/audio/2026-11-28.mp3" length="1488384" type="audio/mpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Industry Brief: Friday, November 27, 2026</title>
       <description>A Windows Server 2025 crash fix, an unpatched Cacti flaw, AI-driven attacks, a ransomware recovery indictment, a Cloudflare disruption, Nvidia shipments and SAP job cuts.</description>
       <pubDate>Fri, 27 Nov 2026 11:00:00 +0000</pubDate>
